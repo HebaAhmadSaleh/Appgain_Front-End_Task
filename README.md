@@ -5,9 +5,9 @@ commands to run the project from cmd :
 
 1-npm install -g json-server  
 
-2-change directory to FrontendTask_Appgain then json-server --watch smartlinks.json
+2-change directory to where json data file then json-server --watch smartlinks.json
 
-change directory to Project which is directory ../FrontendTask_Appgain/Appgain_Front-End_Task
+change directory to Project which is directory ../Appgain_Front-End_Task
 
 3-npm install 
 
