@@ -1,0 +1,114 @@
+{
+  "shortlinks": [
+    {
+      "id": "s5G1f3",
+      "obj": {
+        "slug": "s5G1f3",
+        "status": "active",
+        "description": "the first link",
+        "targets": {
+          "ios": {
+            "primary": "http://www.abc.com",
+            "fallback": "http://www.xyz.com"
+          },
+          "android": {
+            "primary": "http://www.123.com",
+            "fallback": "http://www.google.com"
+          },
+          "web": "http://www.google.com"
+        },
+        "launch_page": {
+          "header": "Opeing etc..."
+        }
+      }
+    },
+    {
+      "id": "s5G1f4",
+      "obj": {
+        "slug": "s5G1f4",
+        "status": "disable",
+        "description": "...",
+        "targets": {
+          "ios": {
+            "primary": "http://ios1.com",
+            "fallback": "http://ios2.com"
+          },
+          "android": {
+            "primary": "http://android.com",
+            "fallback": "http://android2.com"
+          },
+          "web": "http://web.com"
+        },
+        "launch_page": {
+          "header": "Opeing..."
+        }
+      }
+    },
+    {
+      "id": "s5G1f5",
+      "obj": {
+        "targets": {
+          "ios": {
+            "primary": "http://ios1.com",
+            "fallback": "http://ios2.com"
+          },
+          "android": {
+            "primary": "http://android.com",
+            "fallback": "http://android2.com"
+          },
+          "web": "http://web.com"
+        },
+        "launch_page": {
+          "header": "Opeing..."
+        },
+        "slug": "s5G1f5",
+        "status": "Active",
+        "description": "..."
+      }
+    },
+    {
+      "id": "visqc6i9e1",
+      "obj": {
+        "targets": {
+          "ios": {
+            "primary": "t",
+            "fallback": "q"
+          },
+          "android": {
+            "primary": "r",
+            "fallback": "a"
+          },
+          "web": "f"
+        },
+        "launch_page": {
+          "header": "u"
+        },
+        "slug": "visqc6i9e1",
+        "status": "Active",
+        "description": ""
+      }
+    },
+    {
+      "id": "1f28ygl1qrr",
+      "obj": {
+        "targets": {
+          "ios": {
+            "primary": "huihui",
+            "fallback": "huhu"
+          },
+          "android": {
+            "primary": "hu",
+            "fallback": "uhuhu"
+          },
+          "web": "ihihih"
+        },
+        "launch_page": {
+          "header": "huih"
+        },
+        "slug": "1f28ygl1qrr",
+        "status": "Reverse",
+        "description": "Descriptiontest"
+      }
+    }
+  ]
+}
